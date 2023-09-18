@@ -1,7 +1,12 @@
 # A Whale off the Port(folio)
 This project presents investment portfolio analysis based on 1, 4, 5 and 7 year historical data of equities performance. Visual references provide insight on ROI trends and volatility which may help investment managers in decision making.
 ## Examples
-This section should include screenshots, code blocks, or animations showing how your project works.
+<img width="431" alt="Performance" src="https://github.com/ahcano/pandas/assets/141194281/a0e60900-59d9-4f14-8667-ad0cd53f1d2d">
+
+![Daily ROI](https://github.com/ahcano/pandas/assets/141194281/06ee2df2-4fc6-43fd-966a-88ddd6baae8b)
+
+## Usage
+The code is in Jupyter notebook Anahs_whale_analysis.ipynb
 ## Contributors
 Ana Cano - Author ana.cano@utoronto.ca
 ## License
