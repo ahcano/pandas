@@ -1,9 +1,15 @@
 # A Whale off the Port(folio)
-This project presents investment portfolio analysis based on 1, 4, 5 and 7 year historical data of equities performance. Visual references provide insight on ROI trends and volatility which may help investment managers in decision making.
+This project presents investment portfolio analysis based on 1, 4, 5 and 7 year historical data of equities performance; annual performance of a custom portfolio comprised of 3 stocks: AMZN, VSP and VOOG. Balanced portfolios with algorithmic trading strategies, hedge funds and mutual funds.
+Visual references provide insight on ROI trends and volatility which may help investment managers in decision making.
+
 ## Examples
 <img width="431" alt="Performance" src="https://github.com/ahcano/pandas/assets/141194281/09084965-c9cc-4143-8820-deaf27330b37">
 
 ![Daily ROI](https://github.com/ahcano/pandas/assets/141194281/d727c16c-1d50-4441-9f55-ef28456f5e99)
+
+In the Box Plot example below, the results obtained point to the most volatile stocks being Tiger Global Management LLC and Berkshire Hathaway Inc. With a higher risk and also spikes of opportunities for a higher ROI. 
+<img width="1038" alt="volatility" src="https://github.com/ahcano/pandas/assets/141194281/4aa1698e-1575-4648-863e-4ce62a2e5798">
+
 
 ## Usage
 The code is in Jupyter notebook Anahs_whale_analysis.ipynb
